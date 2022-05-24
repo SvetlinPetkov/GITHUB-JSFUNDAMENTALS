@@ -1,2 +1,3 @@
-# GITHUB-JSFUNDAMENTALS
-My JS fundamentals progress
+# GITHUB JSFUNDAMENTALS
+My JS fundamentals progress.
+It was created by Svetlin Petkov.
